@@ -25,9 +25,9 @@ To build a simple Java application using object-oriented programming to manage b
 ##  To Run the Code
 
 1. Open the program in VS Code or IntelliJ.
-2. Compile the code using:**https://github.com/UnnathiKV/Library-Management-System/blob/main/NotesApp.java**
+2. Compile the code using:**https://github.com/UnnathiKV/Java-Notes-App/blob/main/NotesApp.java**
 
    ---
 
 ## Output Screenshot
-**Sample Output:https://github.com/UnnathiKV/Library-Management-System/blob/main/task3.png**
+**Sample Output:https://github.com/UnnathiKV/Java-Notes-App/blob/main/task4.png**
